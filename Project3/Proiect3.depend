@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621305470 source:c:\users\lolyp\onedrive\desktop\fac\poo\proiect3\proiect3\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	<utility>
+	<string>
+

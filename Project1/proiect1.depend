@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616176492 source:d:\poo\1\proiect1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
